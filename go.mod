@@ -247,3 +247,7 @@ require (
 	stash.kopano.io/kgol/kcc-go/v5 v5.0.1 // indirect
 	stash.kopano.io/kgol/oidc-go v0.3.2 // indirect
 )
+
+replace github.com/cs3org/reva => /home/corby/work/go/src/github.com/c0rby/reva/
+
+replace github.com/owncloud/libre-graph-api-go => /home/corby/work/libre-graph-api-go
